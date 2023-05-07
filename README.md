@@ -1,2 +1,2 @@
-# carniyavillage
-carniya village jindabyne sample website
+# Carniya Village
+Carniya Village Jindabyne sample website, developed by @Hyphen technolgies  
