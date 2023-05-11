@@ -1,5 +1,5 @@
 
-/* Developed by https://github.com/tunitx */
+/* Developed by https://github.com/tunitx (Tanish) */
 
 
 #cards-wrapper{
@@ -116,6 +116,43 @@ html, body {
     background-position: center;
     background-size: cover;
 }
+#card-13{
+    background-image: url(../img/laterEdits/snow.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#card-14{
+    background-image: url(../img/laterEdits/kidssnow.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#card-15{
+    background-image: url(../img/laterEdits/snowrabbit.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#card-16{
+    background-image: url(../img/laterEdits/anotherdumbasskid.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#card-17{
+    background-image: url(../img/laterEdits/skeeing.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#card-18{
+    background-image: url(../img/laterEdits/deer.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
 
 .card{
     -webkit-transition: all 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
