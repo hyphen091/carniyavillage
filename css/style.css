@@ -1951,6 +1951,12 @@ ul, ol {
 #carniya-logo{
 	position: absolute; right: 13rem; bottom: 1rem;
 }
+#video-bro{
+	position: relative; bottom: 8rem; left: 18rem;
+}
+#videotext-bro{
+	z-index: 9999; position: absolute; right: 50rem;
+}
 @media  only screen and (max-width:500px) {
 	#contact-button{
 		/* position: absolute; */
