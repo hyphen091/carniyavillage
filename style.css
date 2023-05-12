@@ -1951,7 +1951,7 @@ ul, ol {
 #carniya-logo{
 	position: absolute; right: 13rem; bottom: 1rem;
 }
-@media  only screen and (max-width:500px) {
+@media  only screen and (max-width:501px) {
 	#contact-button{
 		/* position: absolute; */
 		top: 30px;
