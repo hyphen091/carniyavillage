@@ -1994,9 +1994,16 @@ ul, ol {
     height: 20rem;
     left:1px;
 }
-	#carniya-title-index{
-		font-size:4.3rem;
-	}
+#carniya-title-index{
+ font-size : 4.3rem;
+}
+	.hero-text h1 {
+    /* font-size: 80px; */
+    line-height: 90px;
+    color: #ffffff;
+    margin-bottom: 16px;
+}
+	
 	
 }
 /*-------------------------------- Respinsive Media Styles --------------------------------*/
