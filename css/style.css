@@ -1953,11 +1953,15 @@ ul, ol {
 #carniya-logo{
 	position: absolute; right: 13rem; bottom: 1rem;
 }
-#video-bro{
-	position: relative; bottom: 8rem; left: 18rem;
+#video-bro {
+  position: relative;
+  bottom: 8rem;
+  left: 18rem;
 }
-#videotext-bro{
-	z-index: 9999; position: absolute; right: 50rem;
+#videotext-bro {
+  z-index: 9999;
+  position: absolute;
+  right: 50rem;
 }
 @media  only screen and (max-width:500px) {
 	#contact-button{
@@ -1975,6 +1979,21 @@ ul, ol {
 		position: relative;
 		left: 45px;
 	}
+	#videotext-bro{
+    font-size: 2rem;
+    right: 0;
+    left: 10px;
+    /* top: -50px; */
+  }
+  #video-bro {
+    position: relative;
+    /* bottom: 2rem; */
+    /* left: 18rem; */
+    width: 100%;
+    top: 6rem;
+    height: 20rem;
+    left:1px;
+}
 	
 }
 /*-------------------------------- Respinsive Media Styles --------------------------------*/
