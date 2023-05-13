@@ -1,7 +1,9 @@
 
 /* Developed by https://github.com/tunitx (Tanish) */
 
-
+html {
+  scroll-behavior: smooth;
+}
 #cards-wrapper{
     height: auto;
     width: 100%;
